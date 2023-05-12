@@ -1,0 +1,11 @@
+export 'src/flutter_amazon_iap_plugin.dart';
+export 'src/entities/user_data.dart';
+export 'src/entities/user_data_response.dart';
+export 'src/entities/product_data.dart';
+export 'src/entities/product_data_response.dart';
+export 'src/entities/request_status.dart';
+export 'src/entities/purchase_request_status.dart';
+export 'src/entities/product_data_type.dart';
+export 'src/entities/purchase_response.dart';
+export 'src/entities/receipt.dart';
+export 'src/entities/purchase_updates_response.dart';
